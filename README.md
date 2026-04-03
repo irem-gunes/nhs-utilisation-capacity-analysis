@@ -1,5 +1,8 @@
 #  NHS Appointment Utilisation, Capacity & Operational Trends
-This is a Python-driven operational analysis for the NHS. It aims to understand resource utilisation and identify capacity pressures.
+This analysis aims to uncover trends and insights from NHS data, by analysing operational efficiency, appointment trends over time, and public perception of services. 
+
+The NHS lacks a clear view of the utilisation of its healthcare services, which is necessary for budgeting, planning, identifying opportunities, improving efficiency and patient access. Some stakeholders are calling for increased resources and capacity to navigate increasing demand, while others view it as sufficient and that they should be utilised more efficiently instead.  
+
 
 ### Objectives
 
@@ -33,7 +36,6 @@ These broad business questions were reframed into the following analytical quest
 ### Recommendations
 
 - Immediate focus: expanding the role of non-GP healthcare professionals to distribute demand more evenly across the healthcare system, reducing pressure on core primary care services, and adopting flexible staffing models to address seasonal peaks in demand. 
-
 
 - Mid-term: improving the quality and completeness of healthcare data to support more accurate analysis and planning, optimising appointment scheduling, reducing missed appointments by using strategies such as automated reminders, and improving patient communication for efficiency and resource utilisation.
 
