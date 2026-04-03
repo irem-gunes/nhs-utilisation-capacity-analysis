@@ -25,11 +25,11 @@ These broad business questions were reframed into the following analytical quest
 
 - Appointment demand is consistently high and stable over time (variation of 9.14%), indicating that demand does not follow strong seasonal patterns and NHS services may be operating under sustained year-round pressure.
 - Most appointments are successfully attended, indicating that existing capacity is largely utilised effectively. 
-- GP is found to have the largest share of appointments among service settings, and when GP services were excluded by the analysis Primary Care Networks handled the highest volume of non-GP appointments.
-- Many consultations are relatively short in duration, particularly 6-10 minutes and 1-5 minutes, which may indicate time pressure due to the consistently high volume of patients faced by healthcare professionals.
+- GP is found to have the largest share of appointments among service settings, and when GP services were excluded by the analysis Primary Care Networks handled the highest volume.
+- Many consultations are short in duration, particularly 6-10 minutes and 1-5 minutes, which may indicate time pressure due to the consistently high volume of patients.
 - Face-to-face consultations remain the dominant delivery mode, followed by phone consultations.
-- Most appointments occur on the same-day or within one week of booking. This pattern indicates a focus on responding to immediate or urgent patient needs rather than long-term scheduled care, which may reduce scheduling flexibility and increase operational strain during periods of peak demand.
-- Twitter data analysis suggests that social media can reflect public perceptions and emerging concerns about NHS services, particularly around appointment access, waiting times, and pressure on healthcare staff. 
+- Most appointments occur on the same-day or within one week of booking. This pattern indicates reduced scheduling flexibility and increased operational strain during periods of peak demand.
+- Twitter hashtag analysis suggests that social media can reflect public perceptions and emerging concerns about NHS services, particularly around appointment access, waiting times, and pressure on healthcare staff. 
 
 
 
